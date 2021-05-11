@@ -1,4 +1,5 @@
 #! /usr/bin/python3
 def main(msg):
     print(msg)
-main("Hello People and World and V")
+main("Hello People and World and Venus")
+
